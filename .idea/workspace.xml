@@ -29,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bert-fa-zwnj-base" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="6745970e-6331-40bc-9f79-0c0795a7de6c" />
@@ -97,7 +97,7 @@
       <workItem from="1662551938586" duration="8927000" />
       <workItem from="1662785198228" duration="529000" />
       <workItem from="1662813300965" duration="6542000" />
-      <workItem from="1662820235243" duration="103000" />
+      <workItem from="1662820235243" duration="512000" />
     </task>
     <servers />
   </component>
